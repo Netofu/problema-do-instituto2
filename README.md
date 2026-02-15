@@ -2,13 +2,23 @@
 
 # Instruções de Execução
 
+ **Requerimentos**:
+
+ Docker.
+
+ Node.
+
+ Prisma.
+  
 
 # Clone o repositório:
 git clone [url-do-repositorio]
+
 cd problema-institucional-api
 
 # Configure as variáveis de ambiente:
 cp .env.example .env
+
 Edite o arquivo .env com suas configurações
 
 # Instale as dependências:
